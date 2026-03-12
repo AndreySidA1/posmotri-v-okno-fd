@@ -171,7 +171,7 @@ ol {
 .button {
   background-color: transparent;
   border: 1px solid #fff;
-  font-family: "Fira Sans Condensed", Arial, sans-serif;  
+  font-family: "Fira Sans Condensed", Arial, sans-serif;
   font-size: 18px;
   font-weight: 700;
   line-height: 21.6px;
@@ -217,7 +217,7 @@ ol {
 }
 
 .content__accent {
-  color: #545050;  
+  color: #545050;
 }
 
 .content__list-container {
@@ -243,7 +243,7 @@ ol {
 }
 
 .content__card-link:active {
-  background-color: #545050;  
+  background-color: #545050;
 }
 
 .content__card-link:hover {
