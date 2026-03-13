@@ -231,7 +231,7 @@ ol {
   font-family: "Oswald", Arial, sans-serif;
   font-size: 75px;
   font-weight: 700;
-  line-height: 70.5px;
+  line-height: 94%;
   text-transform: uppercase;
 }
 
@@ -304,11 +304,10 @@ ol {
   font-family: "Oswald", Arial, sans-serif;
   font-weight: 700;
   font-size: 30px;
-  line-height: 30px;
+  line-height: 26px;
   text-overflow: ellipsis;
   max-width: 196px;
   text-transform: uppercase;
-  margin-bottom: 6px;
   white-space: nowrap;
   overflow: hidden;
 }
@@ -335,7 +334,7 @@ ol {
 
 .more-button {
   min-inline-size: 389px;
-  margin: 2px;
+  margin: 0px  0px 4px 2px;
 }
 
 
